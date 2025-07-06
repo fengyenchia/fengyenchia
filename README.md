@@ -1,10 +1,12 @@
-## Hi there 👋
+## Hello, it's me. 👋
 
-<!--
-**fengyenchia/fengyenchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **fengyenchia/fengyenchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐯</font></font> 大家好，我是**馮妍嘉**，就讀於政大廣告系三年級，雙主修數位內容與科技學士學位學程。
 
+> 對我來說，設計的靈感來自生活，我熱衷於將設計與科技結合，透過程式、互動技術或是其他數位工具，讓創意與美的展現有更多可能。
+
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
