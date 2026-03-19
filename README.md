@@ -8,7 +8,7 @@
 ---
 
 ### 🎓 About Me
-大家好，我是馮妍嘉，目前就讀於政大廣告系，雙主修數位內容與科技學士學位學程。我是一個做事積極、認真負責且喜歡挑戰的人。對我來說，設計的靈感來自生活，我熱衷於將設計與科技結合，透過程式、互動技術或是其他數位工具，讓創意與美的展現有更多可能。我也擅長以簡潔的線條、擬人的物件，搭配可愛的色彩來呈現作品，藉此傳達出活潑卻也讓人眼前一亮的感覺。 
+大家好，我是馮妍嘉，目前就讀於政大廣告系，雙主修數位內容與科技學士學位學程。我是個做事積極負責且喜歡挑戰的人。對我來說，設計的靈感來自生活，我熱衷於將設計與科技結合，透過程式、互動技術或是其他數位工具，讓創意與美的展現有更多可能。我也擅長以簡潔的線條、擬人的物件，搭配可愛的色彩來呈現作品，藉此傳達出活潑卻也讓人眼前一亮的感覺。 
 
 I am a proactive and responsible individual who thrives on challenges. For me, design inspiration stems from everyday life. I am passionate about bridging design and technology—using programming, interactive tech, and digital tools to push the boundaries of creativity and aesthetics.
 
