@@ -73,7 +73,7 @@ Beyond uncovering insights, I am passionate about bringing ideas to life. Combin
 <a href="mailto:yanjia20050504@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/fengyenchia/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/yenchia-feng" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="[你的作品集網址](https://114-2-web-112405033-hw1.vercel.app/about)" target="blank"><img src="https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+<a href="https://114-2-web-112405033-hw1.vercel.app/about" target="blank"><img src="https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
 <a href="https://www.instagram.com/yenchia._.0504" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://x.com/fengyenchia" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
