@@ -8,9 +8,12 @@
 ---
 
 ### 🎓 About Me
-大家好，我是馮妍嘉，目前就讀於政大廣告系，雙主修數位內容與科技學士學位學程。我是個做事積極負責且喜歡挑戰的人。對我來說，設計的靈感來自生活，我熱衷於將設計與科技結合，透過程式、互動技術或是其他數位工具，讓創意與美的展現有更多可能。我也擅長以簡潔的線條、擬人的物件，搭配可愛的色彩來呈現作品，藉此傳達出活潑卻也讓人眼前一亮的感覺。 
+我是馮妍嘉，就讀於政大廣告系，雙主修數位內容與科技學士學位學程，是個熱衷於嘗試新事物且喜歡挑戰的人。在團隊專案經驗中，我享受與不同背景的人合作，因為能聽到多角度的見解，擴增我的視野，也喜歡互相交流的過程。對我來說，設計或解決問題的靈感來自於生活，透過觀察周遭發生的事物，可以發現到有趣的洞察，想出跳脫框架的方案，引起大家的共鳴。
+除了發現洞察外，我也喜歡將想法實踐。憑藉本科系、雙主修與自學所累積的技能，讓我能夠將設計與科技結合，思考整體流程規劃後，便會透過程式、互動技術或是其他數位工具，讓創意的想法被實踐。我覺得唯有透過不斷學習與動手實踐，才能有效地提升自我，累積經驗與創造出有趣且有意義的作品。
 
-I am a proactive and responsible individual who thrives on challenges. For me, design inspiration stems from everyday life. I am passionate about bridging design and technology—using programming, interactive tech, and digital tools to push the boundaries of creativity and aesthetics.
+I am Yen-Chia Feng, an Advertising major at NCCU double majoring in Digital Content & Technologies. I thrive on exploring new ideas and embracing challenges. In collaborative environments, I love working with people from diverse backgrounds to broaden my perspective and exchange unique insights. For me, design and problem-solving inspiration stems from everyday life; by observing the world around me, I find compelling insights that spark out-of-the-box solutions that truly resonate with people.
+
+Beyond uncovering insights, I am passionate about bringing ideas to life. Combining the skills from my majors and self-directed learning, I bridge design and technology. After mapping out the entire workflow, I leverage programming, interactive technology, and other digital tools to execution. I firmly believe that continuous learning and hands-on practice are the keys to continuous growth, gaining experience, and creating meaningful, impactful work.
 
 * **主修：** 廣告學系 (Department of Advertising, AD)
 * **雙主修：** 數位內容與科技學士學位學程 (Digital Contents & Technologies, DCT)
@@ -53,16 +56,6 @@ I am a proactive and responsible individual who thrives on challenges. For me, d
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)](https://p5js.org/)
 
-
-<!--
----
-
-### 🌟 專案領域 | Interests
-* **互動網頁設計 (Interactive Web Design)**
-* **數位廣告創意 (Digital Creative Strategy)**
-* **使用者體驗研究 (UX Research)**
--->
-
 ---
 
 ### 📂 Featured Projects
@@ -79,6 +72,8 @@ I am a proactive and responsible individual who thrives on challenges. For me, d
 <p align="left">
 <a href="mailto:yanjia20050504@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/fengyenchia/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/yenchia-feng" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="[你的作品集網址](https://114-2-web-112405033-hw1.vercel.app/about)" target="blank"><img src="https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
 <a href="https://www.instagram.com/yenchia._.0504" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://x.com/fengyenchia" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
